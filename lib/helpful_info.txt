@@ -1,0 +1,13 @@
+This document will contain helpful information?
+
+Logo Colors //Just copy&paste these where necessary
+
+Gray Background:    Color.fromRGBO(51, 51, 51, 1)
+Bright Blue:        Color.fromRGBO(6, 214, 253, 1)
+Purple:             Color.fromRGBO(124, 111, 233, 1)
+Bright PinK:        Color.fromRGBO(249, 2, 212, 1)
+
+
+Dummy Log In Acount
+Username: test@gmail.com
+Password: test123

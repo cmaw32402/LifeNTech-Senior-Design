@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "348826671507",
+    "firebase_url": "https://lifentech-a3928-default-rtdb.firebaseio.com",
+    "project_id": "lifentech-a3928",
+    "storage_bucket": "lifentech-a3928.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348826671507:android:2de7c14ca5a79b07c67066",
+        "android_client_info": {
+          "package_name": "com.example.lft"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYzhI-WN8jG9Tv7JrgTpt9Mx2OvoBo-hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
